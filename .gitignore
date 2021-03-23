@@ -1,0 +1,5 @@
+build
+config.h
+.vscode
+.idea
+cmake-build-debug
